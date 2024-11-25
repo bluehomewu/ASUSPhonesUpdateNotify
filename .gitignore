@@ -1,0 +1,7 @@
+# Ignore config
+config.ini
+config_EN.ini
+
+# Ignore sent_announcements
+sent_announcements.json
+sent_announcements_EN.json
