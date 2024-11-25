@@ -22,4 +22,3 @@ This program is created by [bluehomewu](https://github.com/bluehomewu).
 
 ## License
 This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
